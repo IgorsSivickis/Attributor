@@ -112,8 +112,6 @@
 		1E04EF12191A5A8D0034D448 /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				1E04EF1B191A5A8E0034D448 /* AttAppDelegate.h */,
-				1E04EF1C191A5A8E0034D448 /* AttAppDelegate.m */,
 				1E04EF1E191A5A8E0034D448 /* Main.storyboard */,
 				1E04EF21191A5A8E0034D448 /* AttViewController.h */,
 				1E04EF22191A5A8E0034D448 /* AttViewController.m */,
@@ -126,6 +124,8 @@
 		1E04EF13191A5A8D0034D448 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1E04EF1B191A5A8E0034D448 /* AttAppDelegate.h */,
+				1E04EF1C191A5A8E0034D448 /* AttAppDelegate.m */,
 				1E04EF14191A5A8D0034D448 /* Attributor-Info.plist */,
 				1E04EF15191A5A8E0034D448 /* InfoPlist.strings */,
 				1E04EF18191A5A8E0034D448 /* main.m */,
